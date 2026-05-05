@@ -24,3 +24,6 @@
 - Focus marketing efforts on high-value customers
 - Restock top-selling books regularly
 - Promote low-selling books with discounts
+
+## 💡 Key Observation
+Revenue is concentrated among a limited number of products and customers, indicating opportunities for targeted marketing and inventory optimization.
