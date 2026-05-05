@@ -44,5 +44,5 @@ This diagram shows relationships between Books, Customers, and Orders tables.
 
 ## 📊 Insights
 
-Check `insights.md` for detailed analysis
+Check [Insights](insights.md) for detailed analysis
 
