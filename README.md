@@ -4,14 +4,12 @@
 
 This project analyzes bookstore sales data using PostgreSQL to generate business insights.
 
-## 🎯 Business Problem
+## 🚀 Project Highlights
 
-The goal of this project is to analyze bookstore sales data to identify:
-
-* Top-performing books and genres
-* Revenue trends over time
-* High-value customers
-* Inventory risks
+* Built a relational database schema for bookstore operations
+* Performed sales and customer analysis using SQL
+* Identified top-performing books and revenue trends
+* Applied joins, aggregations, and CASE statements for insights
 
 This analysis helps in making data-driven decisions for sales and inventory management.
 
