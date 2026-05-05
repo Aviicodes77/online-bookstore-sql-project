@@ -11,7 +11,7 @@ This project analyzes bookstore sales data using PostgreSQL to generate business
 
 ## 🗂️ Database Schema (ER Diagram)
 
-docs/ER-Diagram Of Online Book Store SQL Project.png
+![ER Diagram](docs/er_diagram.png)
 
 This diagram shows relationships between Books, Customers, and Orders tables.
 
