@@ -24,10 +24,10 @@ This diagram shows relationships between Books, Customers, and Orders tables.
 
 ## 📸 Sample Output
 
-![Books Table](screenshots/books_table.png)
-![Top Selling Books](screenshots/top_selling_books.png)
-![Monthly Revenue](screenshots/monthly_revenue.png)
-![Top Customer](screenshots/top_customer.png)
+![Books Table](screenshots/Books_table.png)
+![Top Selling Books](screenshots/Top_Selling_Books.png)
+![Monthly Revenue](screenshots/Monthly_revenue_trend.png)
+![Top Customer](screenshots/Top_Customer_result.png)
 
 ## 📁 Project Structure
 
