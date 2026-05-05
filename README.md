@@ -6,10 +6,12 @@ This project analyzes bookstore sales data using PostgreSQL to generate business
 
 ## 🚀 Project Highlights
 
-* Built a relational database schema for bookstore operations
-* Performed sales and customer analysis using SQL
-* Identified top-performing books and revenue trends
-* Applied joins, aggregations, and CASE statements for insights
+* Designed a relational database schema for bookstore operations
+* Performed sales, customer, and inventory analysis using SQL
+* Identified top-selling books and high-value customers
+* Analyzed monthly revenue trends using aggregation techniques
+* Applied joins, CASE statements, and window functions
+
 
 This analysis helps in making data-driven decisions for sales and inventory management.
 
