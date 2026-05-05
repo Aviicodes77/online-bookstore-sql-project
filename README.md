@@ -24,7 +24,7 @@ This analysis helps in making data-driven decisions for sales and inventory mana
 
 ![ER Diagram](docs/er_diagram.png)
 
-This diagram shows relationships between Books, Customers, and Orders tables.
+The ER diagram illustrates a relational schema where Orders act as a bridge between Customers and Books, enabling transactional analysis.
 
 ## 📊 Key Analysis
 
