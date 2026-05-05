@@ -37,6 +37,7 @@ The ER diagram illustrates a relational schema where Orders act as a bridge betw
 ![Top Selling Books](screenshots/Top_customer_result.png)
 ![Monthly Revenue](screenshots/Monthly_revenue_trend.png)
 ![Top Customer](screenshots/Top_customer_result.png)
+![Customer Segmentation](screenshots/customer_segmentation.png)
 
 ## 📁 Project Structure
 
